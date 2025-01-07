@@ -1,2 +1,0 @@
-7.Creating a User Interface with React Router for Navigation (2 hours)
-Develop a user interface with React Router for navigation between different components and routes. The application should have multiple pages, such as a home page, a contact page, and an about page. Implement React Router components to handle routing and provide smooth transitions between pages. Utilize nested routes to organize complex navigation structures. give steps for

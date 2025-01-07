@@ -1,8 +1,0 @@
-Regular Expression-Based Text Manipulation (3 hours)
-Build a web application that performs 
-text manipulation using regular expressions. 
-The application should allow users to 
-enter a text string and provide options
- for search, replace, and formatting. 
-Implement regular expression patterns to
- identify and modify specific text elements.
